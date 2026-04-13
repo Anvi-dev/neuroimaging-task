@@ -1,0 +1,16 @@
+# Python environment
+venv/
+env/
+.venv/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+*.ps1
+*.exe
+*.dll
+
+# Ignore everything except notebooks and outputs
+*.pyc
